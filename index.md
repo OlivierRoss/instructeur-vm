@@ -1,9 +1,9 @@
 # Navigation
 [Météo maritime](https://meteo.gc.ca/marine/forecast_f.html?mapID=12&siteID=02400)
 -
-[Marées - fichier complet](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/chs-shc-tct-tmc-vol3-202303-41103841.pdf)
+[Marées](/marees_simplifie.pdf)
 -
-[Marées - fichier complet](/marees_simplifie.pdf)
+[Marées - fichier complet](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/chs-shc-tct-tmc-vol3-202303-41103841.pdf)
 -
 
 # Ressources
